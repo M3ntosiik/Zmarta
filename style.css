@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: white;
+    text-decoration: none;
+}
+
+:link {
+    text-decoration: none;
+    color: white;
+}
+
+#div-container {
+    background-color: royalblue;
+    width: 1280px;
+    height: 25px;
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+}
+#container {
+    background-color: slateblue;
+    width: 1280px;
+    height: 63px;
+    text-decoration: none;
+}
+
+#main-container {
+    background-image: url(/Users/Elev/Desktop/zmarta/bilder/background.png);
+    height: 650px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#main-footer {
+    color: grey;
+}
+
+.container {
+    color: black;
+}
+
+#big-container {
+    background-color: white;
+    height: 550px;
+    width: 600px;
+    position: absolute;
+    margin: right;
+    left: 90px;
+    right: 0;
+    top: 120px;
+    bottom: 0;
+    padding: 0 10px;
+    text-align: center;
+    
+}
+
+.slider {
+    align-self: center;
+    margin-top: 150px;
+
+}
+
+#ls {
+    font-weight: bold;
+    color: black;
+    
+}
